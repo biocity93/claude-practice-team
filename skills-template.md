@@ -11,6 +11,14 @@ Your name, GitHub handle, or both.
 
 ---
 
+## Contact Information
+  How to reach you. 
+                                                                                
+  - **Email:**
+  - **LinkedIn / Twitter / other:**                                             
+                                                            
+  ---
+
 ## Core Identity
 Who you are and what you do. One or two lines, written like you'd say it to a peer.
 
