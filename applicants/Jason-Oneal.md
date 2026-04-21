@@ -28,6 +28,7 @@ Founder/operator at BlueDot IT. I build practical systems, ship fast, and use AI
 
 ## Current or Recent Projects
 - **BlueDot IT** — AI, cybersecurity, and web work with a focus on remote leads and practical delivery.
+- **Beauty of Costa Rica hospitality automation** — hospitality ops automation work for a real business use case.
 - **DemonClaw** — active development work in my main repo.
 - **Hermes workflows** — browser, gateway, and automation setup across sessions.
 - **Facebook campaign work** — drafting and operationalizing posts for business and community outreach.
