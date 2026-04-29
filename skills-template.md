@@ -36,7 +36,7 @@ Currently building AI-native vertical SaaS for the residential property manageme
 
 ---
 
-##GTM and Business Skills##
+## GTM and Business Skills
 
 Competitive positioning analysis against incumbent enterprise SaaS platforms
 Cross-currency pricing strategy — anchor and undercut models
@@ -44,8 +44,8 @@ Long-form technical proposals contractors can build directly from
 Investor-grade pitch decks (currently in active deal cycle)
 
 
-##Current or Recent Projects
-In active build (pre-launch):##
+## Current or Recent Projects
+In active build (pre-launch):
 
 Vertical SaaS platform — multi-role enterprise application with five distinct user personas, role-based access, and real-time coordination across field, office, and end-user stakeholders. Multi-phase build, anchor client in active deal cycle.
 Embedded AI assistant — multi-persona system with role-aware prompts and live business context.
